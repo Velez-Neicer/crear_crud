@@ -1,0 +1,7 @@
+.tabla-centrada {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Opcional: ajusta la altura según tus necesidades */
+  }
+  
